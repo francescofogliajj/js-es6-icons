@@ -95,7 +95,7 @@ $(document).ready(function() {
         family: "fas"
       },
       {
-        name: "wheelchair",
+        name: "car",
         prefix: "fa-",
         type: "vehicle",
         family: "fas"
